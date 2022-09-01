@@ -38,17 +38,17 @@ global.APIKeys = { // APIKey Here
   'https://api.adiofficial.xyz': 'apikey lu'
 }
 
-global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
+global.wait = '_*Tunggu bntr doang ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
 global.dtu = 'GROUP'
-global.urlnya = "https://chat.whatsapp.com/ElWAM7irWS13d4R29HpbV1"
+global.urlnya = "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx"
 
 //============= callButtons =============//
 global.dtc = 'RUN BOT'
-global.phn = 'Wa.me/62895327934887?text=jasarunbot'
+global.phn = 'Wa.me/6288214989352?text=SewaBot'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -58,8 +58,8 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = 'Àimò Shuǐ Botz'
-global.author = 'by KrizynOfc'
+global.packname = 'ZxynnBotz'
+global.author = 'by IlhamGanteng'
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
