@@ -29,6 +29,8 @@ Rasel:
 https://github.com/raselcomel
 Krizyn:
 https://github.com/krizynofc
+Hamzzz:
+https://github.com/HamzBotzzzzz
 
 
 \`\`\`${conn.user.name}\`\`\`
