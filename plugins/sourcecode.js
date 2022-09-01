@@ -10,7 +10,7 @@ Bot ini menggunakan script github
 📮 Family-md
 
 Recode kembali
-My Github: https://github.com/krizynofc
+My Github: https://github.com/HamzBotzzzzz
 
 `
      conn.reply(m.chat, txt, m)
